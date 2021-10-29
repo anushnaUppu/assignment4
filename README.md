@@ -1,4 +1,3 @@
-![elgamal](https://user-images.githubusercontent.com/93385316/139444070-fc4a9346-17b9-4e26-a177-45fd9c0997a2.png)
 # assignment3Elgamal
 1)Clone the project by using the command: git clone https://github.com/anushnaUppu/assignment3Elgamal.git
 
@@ -12,3 +11,4 @@
 
 The console will display all the information like the encrypted and decrypted messages.
  
+![elgamal](https://user-images.githubusercontent.com/93385316/139444145-ccfbd26b-97ea-4bf7-bb96-4b1a1d7182c7.png)
