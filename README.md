@@ -1,4 +1,4 @@
-# assignment3Elgamal
+# Elgamal
 1)Clone the project by using the command: git clone https://github.com/anushnaUppu/assignment3Elgamal.git
 
 2)Go to the repository: cd assignment3Elgamal/
