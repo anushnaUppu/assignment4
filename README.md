@@ -1,4 +1,11 @@
 # Elgamal
+
+**Name: Uppu Anushna
+
+**Roll number: CS21M504
+
+**Registered Mail ID: anushna.uppu@gmail.com
+
 1)Clone the project by using the command: git clone https://github.com/anushnaUppu/assignment3Elgamal.git
 
 2)Go to the repository: cd assignment3Elgamal/
