@@ -8,7 +8,7 @@
 
 1)Clone the project by using the command: git clone https://github.com/anushnaUppu/assignment4.git
 
-2)Go to the repository: cd assignment3Elgamal/
+2)Go to the repository: cd assignment4/
 
 3)Compile the code using: gcc elgamal.c
 
