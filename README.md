@@ -6,7 +6,7 @@
 
 **Registered Mail ID: anushna.uppu@gmail.com
 
-1)Clone the project by using the command: git clone https://github.com/anushnaUppu/assignment3Elgamal.git
+1)Clone the project by using the command: git clone https://github.com/anushnaUppu/assignment4.git
 
 2)Go to the repository: cd assignment3Elgamal/
 
